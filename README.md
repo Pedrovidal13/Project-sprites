@@ -1,2 +1,2 @@
 # Project-sprites
-Para sprites
+Projeto feito para colocar minhas criacoes com sprites.
